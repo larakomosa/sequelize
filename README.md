@@ -43,3 +43,8 @@ const sequelize = new Sequelize('database', 'username', 'password', {
 ## Object Relational Mapper
 - Object-relational mapping in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates, in effect, a "virtual object database" that can be used from within the programming language. Wikipedia
 
+#### Then/Catch
+- Returns the result of a promise.  "Then for success and "catch" for error
+
+
+
